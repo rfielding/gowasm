@@ -1,0 +1,3 @@
+#!/bin/bash
+
+go1.1beta3 run server.go
